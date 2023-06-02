@@ -114,3 +114,54 @@ figcaption {
 .div6 {
     margin-bottom: 135px;
 }
+/* * Footer  */ 
+
+
+footer {
+    width: 100%;
+    background: #758BFD;
+    padding: 75px 98px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.contact_info {
+    color: #00CAD7;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 17px;
+    font-family: 'Carrois Gothic', sans-serif;
+    margin-bottom: 21px;
+    width: 126px;
+    display: flex;
+
+}
+
+.mail {
+    color: #FFFFFF;
+    font-weight: 400;
+    font-size: 13px;
+    font-family: 'Carrois Gothic', sans-serif;
+    line-height: 17px;
+    margin-bottom: 12px;
+    width: 153px;
+
+}
+
+.social_icons {
+    display: flex;
+    justify-content: space-between;
+    width: 160px;
+    gap: 24px;
+}
+
+.credit_cards {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 421px;
+    gap: 11px;
+    
+    
+
+}
