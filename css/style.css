@@ -1,0 +1,48 @@
+/* Header  */
+
+
+header {
+    display: flex;
+    justify-content: space-between;
+    padding: 57px 100px 98px;
+    width: 100%;
+    align-items: center;
+}
+
+.logo {
+    font-size: 40px;
+    line-height: 46px;
+    font-family: 'Ubuntu', sans-serif;
+    color: #27187F;
+    width: 127px;
+}
+
+ul {
+    display: flex;
+    justify-content: space-evenly;
+    width: 393px;
+}
+
+.act,
+.no_act {
+    font-size: 24px;
+    line-height: 28px;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+.act {
+    color: #27187F;
+}
+
+.no_act {
+    color: #758BFD;
+}
+
+.search {
+    border: 5px solid #27187F;
+    width: 221px;
+    height: 56px;
+    border-radius: 10px;
+    display: flex;
+    justify-content: flex-end;
+}
